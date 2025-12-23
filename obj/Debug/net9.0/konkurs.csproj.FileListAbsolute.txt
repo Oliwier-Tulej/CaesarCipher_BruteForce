@@ -1,0 +1,14 @@
+C:\Users\Olik\Desktop\konkurs\bin\Debug\net9.0\konkurs.exe
+C:\Users\Olik\Desktop\konkurs\bin\Debug\net9.0\konkurs.deps.json
+C:\Users\Olik\Desktop\konkurs\bin\Debug\net9.0\konkurs.runtimeconfig.json
+C:\Users\Olik\Desktop\konkurs\bin\Debug\net9.0\konkurs.dll
+C:\Users\Olik\Desktop\konkurs\bin\Debug\net9.0\konkurs.pdb
+C:\Users\Olik\Desktop\konkurs\obj\Debug\net9.0\konkurs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Olik\Desktop\konkurs\obj\Debug\net9.0\konkurs.AssemblyInfoInputs.cache
+C:\Users\Olik\Desktop\konkurs\obj\Debug\net9.0\konkurs.AssemblyInfo.cs
+C:\Users\Olik\Desktop\konkurs\obj\Debug\net9.0\konkurs.csproj.CoreCompileInputs.cache
+C:\Users\Olik\Desktop\konkurs\obj\Debug\net9.0\konkurs.dll
+C:\Users\Olik\Desktop\konkurs\obj\Debug\net9.0\refint\konkurs.dll
+C:\Users\Olik\Desktop\konkurs\obj\Debug\net9.0\konkurs.pdb
+C:\Users\Olik\Desktop\konkurs\obj\Debug\net9.0\konkurs.genruntimeconfig.cache
+C:\Users\Olik\Desktop\konkurs\obj\Debug\net9.0\ref\konkurs.dll
