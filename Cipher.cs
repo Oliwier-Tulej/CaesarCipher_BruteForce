@@ -100,11 +100,12 @@ public class Cipher
             for (int i = lastSpace + 1; i < lastSign + 1; i++)
             {
                 Console.Write(text[i]);
-            } 
+            }
+            Console.WriteLine(); 
         }
         else
         {
-            Console.Write("Email not found");
+            Console.WriteLine("Email not found");
         }
     }
 }
