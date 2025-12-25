@@ -10,7 +10,7 @@ public class Cipher
         Decode();
     }
 
-    public void Decode()
+    private void Decode()
     {
         for (int i = 1; i < 26; i++) // for each key
         {
@@ -42,6 +42,7 @@ public class Cipher
         {
             Console.WriteLine("Result " + i + ": " + results[i-1]);
         }
+        Console.WriteLine();
     }
 
     public void FindPolish()
@@ -53,8 +54,57 @@ public class Cipher
             var detectedLanguage = detector.DetectLanguageOf(r);
             if (Equals(Polish, detectedLanguage))
             {
-                Console.WriteLine(r);
+                Console.WriteLine("Possible polish message: " + r);
+                FindEmail(r);
             }
+        }
+    }
+
+    public void FindEmail(string text)
+    {
+        int lastSpace = -1;
+        int lastSign = -1;
+        bool isAtFound = false;
+        for (int i = 0; i < text.Length; i++)
+        {
+            int currentSign = text[i];
+
+            if (isAtFound)
+            {
+                if(currentSign == 32)
+                {
+                    lastSign = i-1;
+                    break;
+                }
+                if (i == text.Length - 1)
+                {
+                    lastSign = i;
+                }
+            }
+            else
+            {
+                if (currentSign == 64)
+                {
+                    isAtFound = true;
+                }
+                else if(currentSign == 32)
+                {
+                    lastSpace = i;
+                }
+            }
+        }
+
+        if (lastSign > lastSpace)
+        {
+            Console.Write("Possible email: ");
+            for (int i = lastSpace + 1; i < lastSign + 1; i++)
+            {
+                Console.Write(text[i]);
+            } 
+        }
+        else
+        {
+            Console.Write("Email not found");
         }
     }
 }
