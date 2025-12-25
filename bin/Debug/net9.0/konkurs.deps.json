@@ -7,8 +7,19 @@
   "targets": {
     ".NETCoreApp,Version=v9.0": {
       "konkurs/1.0.0": {
+        "dependencies": {
+          "SearchPioneer.Lingua": "1.0.5"
+        },
         "runtime": {
           "konkurs.dll": {}
+        }
+      },
+      "SearchPioneer.Lingua/1.0.5": {
+        "runtime": {
+          "lib/net9.0/Lingua.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.5.0"
+          }
         }
       }
     }
@@ -18,6 +29,13 @@
       "type": "project",
       "serviceable": false,
       "sha512": ""
+    },
+    "SearchPioneer.Lingua/1.0.5": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-aODACNE/HwAOofPHyJiCUdFvi42Sbxm6L8mY3AOs0APh4/bgdS8SU8tXfKmBznhO0fyEk/0LvIqeMevWEWpJRg==",
+      "path": "searchpioneer.lingua/1.0.5",
+      "hashPath": "searchpioneer.lingua.1.0.5.nupkg.sha512"
     }
   }
 }

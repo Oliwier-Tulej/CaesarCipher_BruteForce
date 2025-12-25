@@ -1,21 +1,23 @@
 ﻿using System;
+using Lingua;
+using static Lingua.Language;
 public class Cipher
 {
-    private string text;
-    private string[] results = new string[25];
+    private string[] results = new string[26];
     public Cipher(string text)
     {
-        this.text = text;
+        results[0] = text;
+        Decode();
     }
 
-    private void Decode()
+    public void Decode()
     {
-        for (int i = 0; i < 25; i++) // for each key
+        for (int i = 1; i < 26; i++) // for each key
         {
             string new_result = "";
-            for (int j = 0; j < text.Length; j++) // for each letter
+            for (int j = 0; j < results[0].Length; j++) // for each letter
             {
-                int character = text[j];
+                int character = results[0][j];
                 if ((character >= 65) && (character <= 90))
                 {
                     character = character + i + 1;
@@ -36,11 +38,23 @@ public class Cipher
     
     public void Results()
     {
-        Decode();
-        int i = 1;
-        foreach (string s in results)
+        for (int i = 1; i < results.Length; i++)
         {
-            Console.WriteLine(i++ + ": " + s);
+            Console.WriteLine("Result " + i + ": " + results[i-1]);
+        }
+    }
+
+    public void FindPolish()
+    {
+        var detector = LanguageDetectorBuilder.FromAllLanguages().Build();
+
+        foreach (string r in results)
+        {
+            var detectedLanguage = detector.DetectLanguageOf(r);
+            if (Equals(Polish, detectedLanguage))
+            {
+                Console.WriteLine(r);
+            }
         }
     }
 }

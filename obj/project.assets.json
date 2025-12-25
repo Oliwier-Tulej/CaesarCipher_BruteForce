@@ -1,11 +1,2737 @@
 {
   "version": 3,
   "targets": {
-    "net9.0": {}
+    "net9.0": {
+      "SearchPioneer.Lingua/1.0.5": {
+        "type": "package",
+        "compile": {
+          "lib/net9.0/Lingua.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "runtime": {
+          "lib/net9.0/Lingua.dll": {
+            "related": ".pdb;.xml"
+          }
+        },
+        "contentFiles": {
+          "contentFiles/any/any/Lingua/LanguageModels/af/bigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/af/bigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/af/fivegrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/af/fivegrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/af/quadrigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/af/quadrigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/af/trigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/af/trigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/af/unigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/af/unigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/am/bigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/am/bigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/am/fivegrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/am/fivegrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/am/quadrigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/am/quadrigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/am/trigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/am/trigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/am/unigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/am/unigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/ar/bigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/ar/bigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/ar/fivegrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/ar/fivegrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/ar/quadrigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/ar/quadrigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/ar/trigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/ar/trigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/ar/unigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/ar/unigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/az/bigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/az/bigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/az/fivegrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/az/fivegrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/az/quadrigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/az/quadrigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/az/trigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/az/trigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/az/unigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/az/unigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/be/bigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/be/bigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/be/fivegrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/be/fivegrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/be/quadrigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/be/quadrigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/be/trigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/be/trigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/be/unigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/be/unigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/bg/bigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/bg/bigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/bg/fivegrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/bg/fivegrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/bg/quadrigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/bg/quadrigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/bg/trigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/bg/trigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/bg/unigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/bg/unigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/bn/bigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/bn/bigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/bn/fivegrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/bn/fivegrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/bn/quadrigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/bn/quadrigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/bn/trigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/bn/trigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/bn/unigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/bn/unigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/bs/bigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/bs/bigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/bs/fivegrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/bs/fivegrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/bs/quadrigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/bs/quadrigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/bs/trigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/bs/trigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/bs/unigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/bs/unigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/ca/bigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/ca/bigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/ca/fivegrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/ca/fivegrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/ca/quadrigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/ca/quadrigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/ca/trigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/ca/trigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/ca/unigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/ca/unigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/cs/bigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/cs/bigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/cs/fivegrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/cs/fivegrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/cs/quadrigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/cs/quadrigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/cs/trigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/cs/trigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/cs/unigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/cs/unigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/cy/bigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/cy/bigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/cy/fivegrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/cy/fivegrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/cy/quadrigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/cy/quadrigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/cy/trigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/cy/trigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/cy/unigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/cy/unigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/da/bigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/da/bigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/da/fivegrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/da/fivegrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/da/quadrigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/da/quadrigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/da/trigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/da/trigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/da/unigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/da/unigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/de/bigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/de/bigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/de/fivegrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/de/fivegrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/de/quadrigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/de/quadrigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/de/trigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/de/trigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/de/unigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/de/unigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/el/bigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/el/bigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/el/fivegrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/el/fivegrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/el/quadrigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/el/quadrigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/el/trigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/el/trigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/el/unigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/el/unigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/en/bigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/en/bigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/en/fivegrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/en/fivegrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/en/quadrigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/en/quadrigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/en/trigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/en/trigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/en/unigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/en/unigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/eo/bigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/eo/bigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/eo/fivegrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/eo/fivegrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/eo/quadrigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/eo/quadrigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/eo/trigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/eo/trigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/eo/unigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/eo/unigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/es/bigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/es/bigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/es/fivegrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/es/fivegrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/es/quadrigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/es/quadrigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/es/trigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/es/trigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/es/unigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/es/unigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/et/bigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/et/bigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/et/fivegrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/et/fivegrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/et/quadrigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/et/quadrigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/et/trigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/et/trigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/et/unigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/et/unigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/eu/bigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/eu/bigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/eu/fivegrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/eu/fivegrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/eu/quadrigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/eu/quadrigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/eu/trigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/eu/trigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/eu/unigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/eu/unigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/fa/bigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/fa/bigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/fa/fivegrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/fa/fivegrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/fa/quadrigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/fa/quadrigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/fa/trigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/fa/trigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/fa/unigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/fa/unigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/fi/bigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/fi/bigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/fi/fivegrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/fi/fivegrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/fi/quadrigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/fi/quadrigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/fi/trigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/fi/trigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/fi/unigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/fi/unigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/fr/bigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/fr/bigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/fr/fivegrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/fr/fivegrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/fr/quadrigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/fr/quadrigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/fr/trigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/fr/trigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/fr/unigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/fr/unigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/ga/bigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/ga/bigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/ga/fivegrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/ga/fivegrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/ga/quadrigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/ga/quadrigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/ga/trigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/ga/trigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/ga/unigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/ga/unigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/gu/bigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/gu/bigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/gu/fivegrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/gu/fivegrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/gu/quadrigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/gu/quadrigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/gu/trigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/gu/trigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/gu/unigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/gu/unigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/he/bigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/he/bigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/he/fivegrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/he/fivegrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/he/quadrigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/he/quadrigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/he/trigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/he/trigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/he/unigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/he/unigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/hi/bigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/hi/bigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/hi/fivegrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/hi/fivegrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/hi/quadrigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/hi/quadrigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/hi/trigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/hi/trigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/hi/unigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/hi/unigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/hr/bigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/hr/bigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/hr/fivegrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/hr/fivegrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/hr/quadrigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/hr/quadrigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/hr/trigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/hr/trigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/hr/unigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/hr/unigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/hu/bigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/hu/bigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/hu/fivegrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/hu/fivegrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/hu/quadrigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/hu/quadrigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/hu/trigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/hu/trigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/hu/unigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/hu/unigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/hy/bigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/hy/bigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/hy/fivegrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/hy/fivegrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/hy/quadrigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/hy/quadrigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/hy/trigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/hy/trigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/hy/unigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/hy/unigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/id/bigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/id/bigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/id/fivegrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/id/fivegrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/id/quadrigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/id/quadrigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/id/trigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/id/trigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/id/unigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/id/unigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/is/bigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/is/bigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/is/fivegrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/is/fivegrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/is/quadrigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/is/quadrigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/is/trigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/is/trigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/is/unigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/is/unigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/it/bigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/it/bigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/it/fivegrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/it/fivegrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/it/quadrigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/it/quadrigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/it/trigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/it/trigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/it/unigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/it/unigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/ja/unigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/ja/unigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/ka/bigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/ka/bigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/ka/fivegrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/ka/fivegrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/ka/quadrigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/ka/quadrigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/ka/trigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/ka/trigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/ka/unigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/ka/unigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/kk/bigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/kk/bigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/kk/fivegrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/kk/fivegrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/kk/quadrigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/kk/quadrigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/kk/trigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/kk/trigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/kk/unigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/kk/unigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/ko/unigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/ko/unigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/la/bigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/la/bigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/la/fivegrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/la/fivegrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/la/quadrigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/la/quadrigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/la/trigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/la/trigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/la/unigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/la/unigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/lg/bigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/lg/bigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/lg/fivegrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/lg/fivegrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/lg/quadrigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/lg/quadrigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/lg/trigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/lg/trigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/lg/unigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/lg/unigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/lt/bigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/lt/bigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/lt/fivegrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/lt/fivegrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/lt/quadrigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/lt/quadrigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/lt/trigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/lt/trigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/lt/unigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/lt/unigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/lv/bigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/lv/bigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/lv/fivegrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/lv/fivegrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/lv/quadrigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/lv/quadrigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/lv/trigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/lv/trigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/lv/unigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/lv/unigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/mi/bigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/mi/bigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/mi/fivegrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/mi/fivegrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/mi/quadrigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/mi/quadrigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/mi/trigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/mi/trigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/mi/unigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/mi/unigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/mk/bigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/mk/bigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/mk/fivegrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/mk/fivegrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/mk/quadrigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/mk/quadrigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/mk/trigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/mk/trigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/mk/unigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/mk/unigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/mn/bigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/mn/bigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/mn/fivegrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/mn/fivegrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/mn/quadrigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/mn/quadrigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/mn/trigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/mn/trigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/mn/unigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/mn/unigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/mr/bigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/mr/bigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/mr/fivegrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/mr/fivegrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/mr/quadrigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/mr/quadrigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/mr/trigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/mr/trigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/mr/unigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/mr/unigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/ms/bigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/ms/bigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/ms/fivegrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/ms/fivegrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/ms/quadrigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/ms/quadrigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/ms/trigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/ms/trigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/ms/unigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/ms/unigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/nb/bigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/nb/bigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/nb/fivegrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/nb/fivegrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/nb/quadrigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/nb/quadrigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/nb/trigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/nb/trigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/nb/unigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/nb/unigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/nl/bigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/nl/bigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/nl/fivegrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/nl/fivegrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/nl/quadrigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/nl/quadrigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/nl/trigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/nl/trigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/nl/unigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/nl/unigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/nn/bigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/nn/bigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/nn/fivegrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/nn/fivegrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/nn/quadrigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/nn/quadrigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/nn/trigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/nn/trigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/nn/unigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/nn/unigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/om/bigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/om/bigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/om/fivegrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/om/fivegrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/om/quadrigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/om/quadrigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/om/trigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/om/trigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/om/unigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/om/unigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/pa/bigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/pa/bigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/pa/fivegrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/pa/fivegrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/pa/quadrigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/pa/quadrigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/pa/trigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/pa/trigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/pa/unigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/pa/unigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/pl/bigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/pl/bigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/pl/fivegrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/pl/fivegrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/pl/quadrigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/pl/quadrigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/pl/trigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/pl/trigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/pl/unigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/pl/unigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/pt/bigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/pt/bigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/pt/fivegrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/pt/fivegrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/pt/quadrigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/pt/quadrigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/pt/trigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/pt/trigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/pt/unigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/pt/unigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/ro/bigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/ro/bigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/ro/fivegrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/ro/fivegrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/ro/quadrigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/ro/quadrigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/ro/trigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/ro/trigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/ro/unigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/ro/unigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/ru/bigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/ru/bigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/ru/fivegrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/ru/fivegrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/ru/quadrigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/ru/quadrigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/ru/trigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/ru/trigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/ru/unigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/ru/unigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/si/bigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/si/bigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/si/fivegrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/si/fivegrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/si/quadrigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/si/quadrigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/si/trigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/si/trigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/si/unigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/si/unigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/sk/bigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/sk/bigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/sk/fivegrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/sk/fivegrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/sk/quadrigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/sk/quadrigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/sk/trigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/sk/trigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/sk/unigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/sk/unigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/sl/bigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/sl/bigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/sl/fivegrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/sl/fivegrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/sl/quadrigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/sl/quadrigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/sl/trigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/sl/trigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/sl/unigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/sl/unigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/sn/bigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/sn/bigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/sn/fivegrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/sn/fivegrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/sn/quadrigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/sn/quadrigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/sn/trigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/sn/trigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/sn/unigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/sn/unigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/so/bigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/so/bigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/so/fivegrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/so/fivegrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/so/quadrigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/so/quadrigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/so/trigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/so/trigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/so/unigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/so/unigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/sq/bigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/sq/bigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/sq/fivegrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/sq/fivegrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/sq/quadrigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/sq/quadrigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/sq/trigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/sq/trigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/sq/unigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/sq/unigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/sr/bigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/sr/bigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/sr/fivegrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/sr/fivegrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/sr/quadrigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/sr/quadrigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/sr/trigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/sr/trigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/sr/unigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/sr/unigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/st/bigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/st/bigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/st/fivegrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/st/fivegrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/st/quadrigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/st/quadrigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/st/trigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/st/trigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/st/unigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/st/unigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/sv/bigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/sv/bigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/sv/fivegrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/sv/fivegrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/sv/quadrigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/sv/quadrigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/sv/trigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/sv/trigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/sv/unigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/sv/unigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/sw/bigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/sw/bigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/sw/fivegrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/sw/fivegrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/sw/quadrigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/sw/quadrigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/sw/trigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/sw/trigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/sw/unigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/sw/unigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/ta/bigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/ta/bigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/ta/fivegrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/ta/fivegrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/ta/quadrigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/ta/quadrigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/ta/trigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/ta/trigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/ta/unigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/ta/unigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/te/bigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/te/bigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/te/fivegrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/te/fivegrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/te/quadrigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/te/quadrigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/te/trigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/te/trigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/te/unigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/te/unigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/th/bigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/th/bigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/th/fivegrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/th/fivegrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/th/quadrigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/th/quadrigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/th/trigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/th/trigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/th/unigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/th/unigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/ti/bigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/ti/bigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/ti/fivegrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/ti/fivegrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/ti/quadrigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/ti/quadrigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/ti/trigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/ti/trigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/ti/unigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/ti/unigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/tl/bigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/tl/bigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/tl/fivegrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/tl/fivegrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/tl/quadrigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/tl/quadrigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/tl/trigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/tl/trigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/tl/unigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/tl/unigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/tn/bigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/tn/bigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/tn/fivegrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/tn/fivegrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/tn/quadrigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/tn/quadrigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/tn/trigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/tn/trigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/tn/unigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/tn/unigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/tr/bigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/tr/bigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/tr/fivegrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/tr/fivegrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/tr/quadrigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/tr/quadrigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/tr/trigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/tr/trigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/tr/unigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/tr/unigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/ts/bigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/ts/bigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/ts/fivegrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/ts/fivegrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/ts/quadrigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/ts/quadrigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/ts/trigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/ts/trigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/ts/unigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/ts/unigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/uk/bigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/uk/bigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/uk/fivegrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/uk/fivegrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/uk/quadrigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/uk/quadrigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/uk/trigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/uk/trigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/uk/unigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/uk/unigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/ur/bigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/ur/bigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/ur/fivegrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/ur/fivegrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/ur/quadrigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/ur/quadrigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/ur/trigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/ur/trigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/ur/unigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/ur/unigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/vi/bigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/vi/bigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/vi/fivegrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/vi/fivegrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/vi/quadrigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/vi/quadrigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/vi/trigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/vi/trigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/vi/unigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/vi/unigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/xh/bigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/xh/bigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/xh/fivegrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/xh/fivegrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/xh/quadrigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/xh/quadrigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/xh/trigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/xh/trigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/xh/unigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/xh/unigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/yo/bigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/yo/bigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/yo/fivegrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/yo/fivegrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/yo/quadrigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/yo/quadrigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/yo/trigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/yo/trigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/yo/unigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/yo/unigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/zh/unigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/zh/unigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/zu/bigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/zu/bigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/zu/fivegrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/zu/fivegrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/zu/quadrigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/zu/quadrigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/zu/trigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/zu/trigrams.json.br"
+          },
+          "contentFiles/any/any/Lingua/LanguageModels/zu/unigrams.json.br": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": true,
+            "outputPath": "Lingua/LanguageModels/zu/unigrams.json.br"
+          }
+        },
+        "build": {
+          "build/SearchPioneer.Lingua.props": {},
+          "build/SearchPioneer.Lingua.targets": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "SearchPioneer.Lingua/1.0.5": {
+      "sha512": "aODACNE/HwAOofPHyJiCUdFvi42Sbxm6L8mY3AOs0APh4/bgdS8SU8tXfKmBznhO0fyEk/0LvIqeMevWEWpJRg==",
+      "type": "package",
+      "path": "searchpioneer.lingua/1.0.5",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE",
+        "README.md",
+        "build/SearchPioneer.Lingua.props",
+        "build/SearchPioneer.Lingua.targets",
+        "contentFiles/any/any/Lingua/LanguageModels/af/bigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/af/fivegrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/af/quadrigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/af/trigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/af/unigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/am/bigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/am/fivegrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/am/quadrigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/am/trigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/am/unigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/ar/bigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/ar/fivegrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/ar/quadrigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/ar/trigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/ar/unigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/az/bigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/az/fivegrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/az/quadrigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/az/trigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/az/unigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/be/bigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/be/fivegrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/be/quadrigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/be/trigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/be/unigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/bg/bigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/bg/fivegrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/bg/quadrigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/bg/trigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/bg/unigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/bn/bigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/bn/fivegrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/bn/quadrigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/bn/trigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/bn/unigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/bs/bigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/bs/fivegrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/bs/quadrigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/bs/trigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/bs/unigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/ca/bigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/ca/fivegrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/ca/quadrigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/ca/trigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/ca/unigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/cs/bigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/cs/fivegrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/cs/quadrigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/cs/trigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/cs/unigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/cy/bigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/cy/fivegrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/cy/quadrigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/cy/trigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/cy/unigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/da/bigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/da/fivegrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/da/quadrigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/da/trigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/da/unigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/de/bigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/de/fivegrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/de/quadrigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/de/trigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/de/unigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/el/bigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/el/fivegrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/el/quadrigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/el/trigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/el/unigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/en/bigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/en/fivegrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/en/quadrigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/en/trigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/en/unigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/eo/bigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/eo/fivegrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/eo/quadrigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/eo/trigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/eo/unigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/es/bigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/es/fivegrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/es/quadrigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/es/trigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/es/unigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/et/bigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/et/fivegrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/et/quadrigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/et/trigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/et/unigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/eu/bigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/eu/fivegrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/eu/quadrigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/eu/trigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/eu/unigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/fa/bigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/fa/fivegrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/fa/quadrigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/fa/trigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/fa/unigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/fi/bigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/fi/fivegrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/fi/quadrigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/fi/trigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/fi/unigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/fr/bigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/fr/fivegrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/fr/quadrigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/fr/trigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/fr/unigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/ga/bigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/ga/fivegrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/ga/quadrigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/ga/trigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/ga/unigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/gu/bigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/gu/fivegrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/gu/quadrigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/gu/trigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/gu/unigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/he/bigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/he/fivegrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/he/quadrigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/he/trigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/he/unigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/hi/bigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/hi/fivegrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/hi/quadrigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/hi/trigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/hi/unigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/hr/bigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/hr/fivegrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/hr/quadrigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/hr/trigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/hr/unigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/hu/bigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/hu/fivegrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/hu/quadrigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/hu/trigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/hu/unigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/hy/bigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/hy/fivegrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/hy/quadrigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/hy/trigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/hy/unigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/id/bigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/id/fivegrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/id/quadrigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/id/trigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/id/unigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/is/bigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/is/fivegrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/is/quadrigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/is/trigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/is/unigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/it/bigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/it/fivegrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/it/quadrigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/it/trigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/it/unigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/ja/unigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/ka/bigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/ka/fivegrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/ka/quadrigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/ka/trigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/ka/unigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/kk/bigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/kk/fivegrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/kk/quadrigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/kk/trigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/kk/unigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/ko/unigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/la/bigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/la/fivegrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/la/quadrigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/la/trigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/la/unigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/lg/bigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/lg/fivegrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/lg/quadrigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/lg/trigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/lg/unigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/lt/bigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/lt/fivegrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/lt/quadrigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/lt/trigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/lt/unigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/lv/bigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/lv/fivegrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/lv/quadrigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/lv/trigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/lv/unigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/mi/bigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/mi/fivegrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/mi/quadrigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/mi/trigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/mi/unigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/mk/bigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/mk/fivegrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/mk/quadrigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/mk/trigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/mk/unigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/mn/bigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/mn/fivegrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/mn/quadrigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/mn/trigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/mn/unigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/mr/bigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/mr/fivegrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/mr/quadrigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/mr/trigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/mr/unigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/ms/bigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/ms/fivegrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/ms/quadrigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/ms/trigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/ms/unigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/nb/bigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/nb/fivegrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/nb/quadrigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/nb/trigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/nb/unigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/nl/bigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/nl/fivegrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/nl/quadrigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/nl/trigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/nl/unigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/nn/bigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/nn/fivegrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/nn/quadrigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/nn/trigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/nn/unigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/om/bigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/om/fivegrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/om/quadrigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/om/trigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/om/unigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/pa/bigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/pa/fivegrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/pa/quadrigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/pa/trigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/pa/unigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/pl/bigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/pl/fivegrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/pl/quadrigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/pl/trigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/pl/unigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/pt/bigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/pt/fivegrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/pt/quadrigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/pt/trigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/pt/unigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/ro/bigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/ro/fivegrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/ro/quadrigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/ro/trigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/ro/unigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/ru/bigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/ru/fivegrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/ru/quadrigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/ru/trigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/ru/unigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/si/bigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/si/fivegrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/si/quadrigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/si/trigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/si/unigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/sk/bigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/sk/fivegrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/sk/quadrigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/sk/trigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/sk/unigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/sl/bigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/sl/fivegrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/sl/quadrigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/sl/trigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/sl/unigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/sn/bigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/sn/fivegrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/sn/quadrigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/sn/trigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/sn/unigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/so/bigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/so/fivegrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/so/quadrigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/so/trigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/so/unigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/sq/bigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/sq/fivegrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/sq/quadrigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/sq/trigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/sq/unigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/sr/bigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/sr/fivegrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/sr/quadrigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/sr/trigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/sr/unigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/st/bigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/st/fivegrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/st/quadrigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/st/trigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/st/unigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/sv/bigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/sv/fivegrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/sv/quadrigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/sv/trigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/sv/unigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/sw/bigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/sw/fivegrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/sw/quadrigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/sw/trigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/sw/unigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/ta/bigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/ta/fivegrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/ta/quadrigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/ta/trigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/ta/unigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/te/bigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/te/fivegrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/te/quadrigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/te/trigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/te/unigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/th/bigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/th/fivegrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/th/quadrigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/th/trigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/th/unigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/ti/bigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/ti/fivegrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/ti/quadrigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/ti/trigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/ti/unigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/tl/bigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/tl/fivegrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/tl/quadrigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/tl/trigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/tl/unigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/tn/bigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/tn/fivegrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/tn/quadrigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/tn/trigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/tn/unigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/tr/bigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/tr/fivegrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/tr/quadrigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/tr/trigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/tr/unigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/ts/bigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/ts/fivegrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/ts/quadrigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/ts/trigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/ts/unigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/uk/bigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/uk/fivegrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/uk/quadrigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/uk/trigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/uk/unigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/ur/bigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/ur/fivegrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/ur/quadrigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/ur/trigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/ur/unigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/vi/bigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/vi/fivegrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/vi/quadrigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/vi/trigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/vi/unigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/xh/bigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/xh/fivegrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/xh/quadrigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/xh/trigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/xh/unigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/yo/bigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/yo/fivegrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/yo/quadrigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/yo/trigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/yo/unigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/zh/unigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/zu/bigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/zu/fivegrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/zu/quadrigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/zu/trigrams.json.br",
+        "contentFiles/any/any/Lingua/LanguageModels/zu/unigrams.json.br",
+        "lib/net8.0/Lingua.dll",
+        "lib/net8.0/Lingua.pdb",
+        "lib/net8.0/Lingua.xml",
+        "lib/net9.0/Lingua.dll",
+        "lib/net9.0/Lingua.pdb",
+        "lib/net9.0/Lingua.xml",
+        "nuget-icon.png",
+        "searchpioneer.lingua.1.0.5.nupkg.sha512",
+        "searchpioneer.lingua.nuspec"
+      ]
+    }
+  },
   "projectFileDependencyGroups": {
-    "net9.0": []
+    "net9.0": [
+      "SearchPioneer.Lingua >= 1.0.5"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\Olik\\.nuget\\packages\\": {},
@@ -54,6 +2780,12 @@
     "frameworks": {
       "net9.0": {
         "targetAlias": "net9.0",
+        "dependencies": {
+          "SearchPioneer.Lingua": {
+            "target": "Package",
+            "version": "[1.0.5, )"
+          }
+        },
         "imports": [
           "net461",
           "net462",

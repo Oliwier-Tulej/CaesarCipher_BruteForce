@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "xCHs92QqqII=",
+  "dgSpecHash": "buWE1+khIcQ=",
   "success": true,
   "projectFilePath": "C:\\Users\\Olik\\Desktop\\konkurs\\konkurs.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Olik\\.nuget\\packages\\searchpioneer.lingua\\1.0.5\\searchpioneer.lingua.1.0.5.nupkg.sha512"
+  ],
   "logs": []
 }
